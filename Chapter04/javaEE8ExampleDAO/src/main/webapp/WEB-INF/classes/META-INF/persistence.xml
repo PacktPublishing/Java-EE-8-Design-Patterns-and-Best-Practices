@@ -1,0 +1,13 @@
+<persistence>
+    <persistence-unit name="javaee8">
+        <description>This unit manages orders and customers.
+            It does not rely on any vendor-specific features and can
+            therefore be deployed to any persistence provider.
+        </description>
+        <jta-data-source>jdbc/Javaee8</jta-data-source>
+        <properties>
+            <property name="eclipselink.ddl-generation" value="drop-and-create-tables"/>
+        </properties>
+
+    </persistence-unit>
+</persistence>
