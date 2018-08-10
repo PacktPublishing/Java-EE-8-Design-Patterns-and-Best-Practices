@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaEE8ExampleAuthMechanism:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javaEE8ExampleAuthMechanism.war">
+      <element id="artifact" artifact-name="javaEE8ExampleAuthMechanism:war exploded" />
+    </root>
+  </artifact>
+</component>

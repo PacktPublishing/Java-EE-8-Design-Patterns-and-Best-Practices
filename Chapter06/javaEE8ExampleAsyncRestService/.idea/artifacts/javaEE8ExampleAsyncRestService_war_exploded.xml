@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="javaEE8ExampleAsyncRestService:war exploded">
+    <output-path>$PROJECT_DIR$/target/javaEE8ExampleAsyncRestService</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="javaEE8ExampleAsyncRestService" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/javaEE8ExampleAsyncRestService/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="javaEE8ExampleAsyncRestService/web/Web" />
+    </root>
+  </artifact>
+</component>

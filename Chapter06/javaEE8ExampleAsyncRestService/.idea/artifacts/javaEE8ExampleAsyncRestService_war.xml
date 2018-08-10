@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaEE8ExampleAsyncRestService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javaEE8ExampleAsyncRestService.war">
+      <element id="artifact" artifact-name="javaEE8ExampleAsyncRestService:war exploded" />
+    </root>
+  </artifact>
+</component>

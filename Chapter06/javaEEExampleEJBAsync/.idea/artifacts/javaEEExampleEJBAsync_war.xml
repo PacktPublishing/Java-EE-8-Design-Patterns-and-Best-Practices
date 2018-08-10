@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaEEExampleEJBAsync:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javaEEExampleEJBAsync.war">
+      <element id="artifact" artifact-name="javaEEExampleEJBAsync:war exploded" />
+    </root>
+  </artifact>
+</component>

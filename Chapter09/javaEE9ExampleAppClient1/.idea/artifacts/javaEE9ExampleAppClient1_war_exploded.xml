@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="javaEE9ExampleAppClient1:war exploded">
+    <output-path>$PROJECT_DIR$/target/javaEE9ExampleAppClient1</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="javaEE9ExampleAppClient1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.glassfish.jersey.core:jersey-client:2.26" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:javax.ws.rs-api:2.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.jersey.core:jersey-common:2.26" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:osgi-resource-locator:1.0.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:javax.inject:2.5.0-b42" />
+          <element id="library" level="project" name="Maven: org.glassfish.jersey.inject:jersey-hk2:2.26" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-locator:2.5.0-b42" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:aopalliance-repackaged:2.5.0-b42" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-api:2.5.0-b42" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-utils:2.5.0-b42" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.22.0-CR2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/javaEE9ExampleAppClient1/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="javaEE9ExampleAppClient1/web/Web" />
+    </root>
+  </artifact>
+</component>
