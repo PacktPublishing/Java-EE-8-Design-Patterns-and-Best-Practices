@@ -4,7 +4,7 @@
 
 This is the code repository for [Java EE 8 Design Patterns and Best Practices](https://www.packtpub.com/application-development/java-ee-8-design-patterns-and-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781788830621 ), published by Packt.
 
-**Get the deep insights you need to master efficient architectural design considerations and solve common design problems in your enterprise applications. **
+**Get the deep insights you need to master efficient architectural design considerations and solve common design problems in your enterprise applications.**
 
 ## What is this book about?
 Patterns are essential design tools for Java developers. Java EE Design Patterns and Best Practices helps developers attain better code quality and progress to higher levels of architectural creativity by examining the purpose of each available pattern and demonstrating its implementation with various code examples. This book will take you through a number of patterns and their Java EE-specific implementations.
@@ -66,10 +66,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Rhuan Rocha **
-Rhuan Rocha is from Brazil and has experience with development using the Java language and Java EE. Currently, he works as senior Middleware consultant in a partnership between Red Hat and F·bricaDS, and he applies Red Hat solutions using Red Hat Middlewares. Furthermore, he has 8 years, experience with Java development and Java EE development, developing enterprise applications and government applications.
+Rhuan Rocha is from Brazil and has experience with development using the Java language and Java EE. Currently, he works as senior Middleware consultant in a partnership between Red Hat and F√°bricaDS, and he applies Red Hat solutions using Red Hat Middlewares. Furthermore, he has 8 years, experience with Java development and Java EE development, developing enterprise applications and government applications.
 
-**Jo„o PurificaÁ„o **
-Jo„o PurificaÁ„o is an electronic engineer from Brazil with a master's in systems engineering. He started working with software development as a C and C ++ programmer. He has worked on the analysis, development, and architecture of Java-based enterprise applications. As a Java/JavaEE consultant, he has participated in the development and architecture of applications for private and government companies. He currently works as a senior architect at Resource IT, a company based in S„o Paulo.
+**Jo√£o Purifica√ß√£o **
+Jo√£o Purifica√ß√£o is an electronic engineer from Brazil with a master's in systems engineering. He started working with software development as a C and C ++ programmer. He has worked on the analysis, development, and architecture of Java-based enterprise applications. As a Java/JavaEE consultant, he has participated in the development and architecture of applications for private and government companies. He currently works as a senior architect at Resource IT, a company based in S√£o Paulo.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
