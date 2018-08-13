@@ -52,10 +52,10 @@ Java developers who are comfortable with programming in Java and now want to lea
 
 With the following software and hardware list you can run all code files present in the book (Chapter 2-7 and 9).
 ### Software and Hardware List
-| Chapter  | Software required                   | OS required                        |
-| -------- | ------------------------------------| -----------------------------------|
-| 1        | GlassFish 5.0                       | Windows, Mac OS X, and Linux (Any) |
-| 2        | JDK-8                               | Windows, Mac OS X, and Linux (Any) |
+|  Chapter   | Software required                   | OS required                        |
+|  --------  | ------------------------------------| -----------------------------------|
+| 2-7 and 9  | GlassFish 5.0                       | Windows, Mac OS X, and Linux (Any) |
+| 2-7 and 9  | JDK-8                               | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://www.packtpub.com/sites/default/files/downloads/JavaEE8DesignPatternsandBestPractices_ColorImages.pdf).
 
@@ -65,10 +65,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 *  Java EE 8 High Performance [[Packt]](https://www.packtpub.com/application-development/java-ee-8-high-performance) [[Amazon]](https://www.amazon.com/dp/178847306X)
 
 ## Get to Know the Author
-**Rhuan Rocha **
+**Rhuan Rocha**
 Rhuan Rocha is from Brazil and has experience with development using the Java language and Java EE. Currently, he works as senior Middleware consultant in a partnership between Red Hat and FábricaDS, and he applies Red Hat solutions using Red Hat Middlewares. Furthermore, he has 8 years, experience with Java development and Java EE development, developing enterprise applications and government applications.
 
-**João Purificação **
+**João Purificação**
 João Purificação is an electronic engineer from Brazil with a master's in systems engineering. He started working with software development as a C and C ++ programmer. He has worked on the analysis, development, and architecture of Java-based enterprise applications. As a Java/JavaEE consultant, he has participated in the development and architecture of applications for private and government companies. He currently works as a senior architect at Resource IT, a company based in São Paulo.
 
 ### Suggestions and Feedback
