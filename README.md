@@ -4,7 +4,7 @@
 
 This is the code repository for [Java EE 8 Design Patterns and Best Practices](https://www.packtpub.com/application-development/java-ee-8-design-patterns-and-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781788830621 ), published by Packt.
 
-**Get the deep insights you need to master efficient architectural design considerations and solve common design problems in your enterprise applications.**
+**Build enterprise-ready scalable applications with architectural design patterns**
 
 ## What is this book about?
 Patterns are essential design tools for Java developers. Java EE Design Patterns and Best Practices helps developers attain better code quality and progress to higher levels of architectural creativity by examining the purpose of each available pattern and demonstrating its implementation with various code examples. This book will take you through a number of patterns and their Java EE-specific implementations.
